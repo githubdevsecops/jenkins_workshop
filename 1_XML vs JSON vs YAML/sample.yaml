@@ -1,0 +1,33 @@
+organization: leanbank
+about: |
+  LeanBank
+  is an
+  Bank based
+  application.
+history: >
+  LeanBank
+  established
+  in 1989.
+products: "[Accounts] & {Cards} - <Loans>" #For special characters, we need to use double quotes in String
+hasMobileApp: "Yes" #With out quotes will result as True
+locations:
+  - Pune
+  - Mumbai
+  - Paris
+  - Singapore
+applications:
+  - cards:
+      name: LeanCards
+      technology: Python
+      team-size: 12
+      lastDeployed: !!timestamp 2021-08-04
+  - accounts:
+      name: LeanAccounts
+      technology: Java
+      team-size: 50
+      lastDeployed: !!timestamp 2021-06-04
+  - loans:
+      name: LeanLoans
+      technology: Ruby
+      team-size: 8
+      lastDeployed: !!timestamp 2021-02-04

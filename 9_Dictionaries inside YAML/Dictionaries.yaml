@@ -1,0 +1,14 @@
+# An Application record
+applications:
+  - cards:
+      name: LeanCards
+      technology: Python
+      team-size: 12
+  - accounts:
+      name: LeanAccounts
+      technology: Java
+      team-size: 50
+  - loans:
+      name: LeanLoans
+      technology: Ruby
+      team-size: 8

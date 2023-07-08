@@ -1,0 +1,24 @@
+# Development Applications Details
+---
+applications:
+  - cards:
+      name: LeanCards
+      technology: Python
+      team-size: 12
+  - accounts:
+      name: LeanAccounts
+      technology: Java
+      team-size: 50
+...
+---
+# Product Applications Details
+applications:
+  - loans:
+      name: LeanLoans
+      technology: Ruby
+      team-size: 8
+  - marketing:
+      name: LeanMarketing
+      technology: R
+      team-size: 4
+...
